@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/niquerio/release-please-demo/compare/v1.0.1...v1.0.2) (2024-02-14)
+
+
+### Bug Fixes
+
+* change to use release config ([e48a555](https://github.com/niquerio/release-please-demo/commit/e48a555f374f8518839956ac3db74ad2cc8a860b))
+
 ## [1.0.1](https://github.com/niquerio/release-please-demo/compare/v1.0.0...v1.0.1) (2024-01-26)
 
 
