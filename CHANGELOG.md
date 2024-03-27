@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/niquerio/release-please-demo/compare/v1.0.2...v1.0.3) (2024-03-27)
+
+
+### Bug Fixes
+
+* does this get added? ([4e2faa0](https://github.com/niquerio/release-please-demo/commit/4e2faa0366b676a71b9f49333358d7f6ff56a93b))
+* should generate a pr ([0ada3d2](https://github.com/niquerio/release-please-demo/commit/0ada3d25fc8e181bf9375175bd7b90ade80dbe50))
+
 ## [1.0.2](https://github.com/niquerio/release-please-demo/compare/v1.0.1...v1.0.2) (2024-02-14)
 
 
