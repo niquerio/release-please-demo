@@ -1,3 +1,3 @@
 # release-please-demo
 
-Whatever
+Whatever and something else
